@@ -92,7 +92,8 @@ http://localhost:3000
 
 ## ScreenShot
 <img width="1918" height="962" alt="Screenshot 2026-03-04 145104" src="https://github.com/user-attachments/assets/ff57312f-cd11-4a6b-85a4-7e21f28386bd" />
-<img width="1918" height="962" alt="Screenshot 2026-03-04 145104" src="https://github.com/user-attachments/assets/ffdba104-5817-43a2-96d6-f079a30e3b62" />
+<img width="1918" height="861" alt="Screenshot 2026-03-04 145136" src="https://github.com/user-attachments/assets/40cc9775-2b99-451e-b1d3-adce9161986a" />
+
 
 
 ## Contributing
